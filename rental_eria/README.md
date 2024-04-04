@@ -1,2 +1,2 @@
 # Rental-Mobil
-Rental Mobil Berbasis website
+Harus pakai PHP 5.6
