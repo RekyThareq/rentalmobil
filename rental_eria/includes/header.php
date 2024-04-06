@@ -11,11 +11,12 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Support Mail us : </p>
-              <a href="mailto:info@example.com">rentalmobil@gmail.com</a> </div>
+              <a href="mailto:info@example.com">rekythareq@gmail.com</a> </div>
             <div class="header_widgets">
-              <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
+            <div class="circle_icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" style="width: 24px; height: 24px;"></div>
               <p class="uppercase_text">For Services Call Us: </p>
-              <a href="tel:61-1234-5678-09">+62-877-8643-1331</a> </div>
+              <a href="https://wa.me/+6281290476752">+62-812-9047-6752</a> </div>
             <!-- <div class="social-follow">
               <ul>
                 <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>

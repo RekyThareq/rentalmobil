@@ -145,10 +145,9 @@ function checkLetter(theform)
                   <input type="submit" value="Sign Up"class="btn btn-block">
                 </div>
               </form>
-              <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
               
 			<div class="modal-footer text-center">
-			<p>Sudah punya akun? <a href="#loginform" data-toggle="modal" data-dismiss="modal">Login Disini</a></p>
+			<p> Sudah punya akun? <a href="#loginform" data-toggle="modal" data-dismiss="modal" >Login Disini</a></p>
 			</div>
 
      </div>

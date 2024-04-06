@@ -76,7 +76,6 @@ error_reporting(0);
           <li role="presentation" class="active"><a href="#resentnewcar" role="tab" data-toggle="tab">Mobil Untuk Anda</a></li>
         </ul>
       </div>
-      <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
       
       <!-- Recently Listed New Cars -->
       <div class="tab-content">
