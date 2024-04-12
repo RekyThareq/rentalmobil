@@ -60,9 +60,7 @@ if(mysqli_num_rows($query)>0){
 
 									<button class="btn btn-primary btn-block" name="login" type="submit">LOGIN</button>
 
-								</form>
-								<br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
-								
+								</form>								
 							</div>
 						</div>
 					</div>

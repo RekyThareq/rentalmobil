@@ -1887,8 +1887,8 @@ input.newsletter-input {
 }
 .copy-right {
   color: #ffffff;
-  font-size: 15px;
-  line-height: 40px;
+  font-size: 20px;
+  line-height: 10px;
   margin: 0 auto;
 }
 .back-top {
@@ -4488,7 +4488,7 @@ h3 {
 }
 .footer-bottom .footer_widget {
 	display:block;
-	margin:0 auto 10px;	
+	margin:10 auto 10px;	
 }
 .login_btn .btn.btn-xs {
   margin-top: 8px;
