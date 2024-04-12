@@ -58,9 +58,8 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
             </ul>
           </div> -->
         </div>
-        <div class="col-md-6 col-md-pull-6">
-          <p class="copy-right">Copyright &copy; 2024 Rental Mobil</p>
-          <p class="copy-right">All Rights Reserved</p>
+        <div>
+          <p class="copy-right">Copyright &copy; 2024 Rental Mobil. All Rights Reserved</p>
         </div>
       </div>
     </div>

@@ -1886,6 +1886,7 @@ input.newsletter-input {
 	margin:0px;
 }
 .copy-right {
+  text-align: center;
   color: #ffffff;
   font-size: 20px;
   line-height: 10px;

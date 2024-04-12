@@ -54,14 +54,14 @@ $querysewa = mysqli_query($koneksidb,$sqlsewa);
 						<td rowspan="3" width="16%" class="text-center">
 							<img src="../assets/images/cat-profile.png" alt="logo" width="80" />
 						</td>
-						<td class="text-center"><h3>Rental Mobil</h3></td>
+						<td class="text-center"></td>
 						<td rowspan="3" width="16%">&nbsp;</td>
 					</tr>
 					<tr>
 						<td class="text-center"><h2>Rental Mobil</h2></td>
 					</tr>
 					<tr>
-						<td class="text-center">Jl. Kemanggisan Raya No.19, RT.4/RW.13, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480</td>
+						<td class="text-center">Jl. TB Simatupang Jl. Nangka Raya No.58 C, RT.7/RW.5, Tj. Bar., Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530</td>
 					</tr>
 				</tbody>
 			</table>
