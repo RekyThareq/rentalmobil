@@ -1,4 +1,3 @@
-
 <header>
   <div class="default-header">
     <div class="container">
@@ -17,14 +16,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" style="width: 24px; height: 24px;"></div>
               <p class="uppercase_text">For Services Call Us: </p>
               <a href="https://wa.me/+6281290476752">+62-812-9047-6752</a> </div>
-            <!-- <div class="social-follow">
-              <ul>
-                <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              </ul> -->
             </div>
    <?php   if(strlen($_SESSION['ulogin'])==0)
 	{	
