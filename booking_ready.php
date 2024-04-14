@@ -25,6 +25,7 @@ $tgl=date('Y-m-d');
 //insert
 $sql 	= "INSERT INTO booking (kode_booking,id_mobil,tgl_mulai,tgl_selesai,durasi,driver,status,email,pickup,tgl_booking)
 			VALUES('$kode','$vid','$fromdate','$todate','$durasi','$biayadriver','$status','$email','$pickup','$tgl')";
+
 $query 	= mysqli_query($koneksidb,$sql);
 if($query){
 	for($cek;$cek<$durasi;$cek++){

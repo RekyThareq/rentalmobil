@@ -9,7 +9,7 @@ function buatKode($tabel, $inisial){
 	$field		= mysqli_fetch_field_direct($struktur,0)->name;
 
 	// membaca panjang kolom kunci (cara 1)
-	$panjang	= mysqli_fetch_field_direct($struktur,0)->length;
+	$panjang	= 8;
 	
 	// membaca panjang kolom kunci (cara 2)
 	//$hasil 	= mysql_fetch_field($struktur,0);
@@ -31,7 +31,8 @@ function buatKode($tabel, $inisial){
  	for($i=1; $i<=($panjang-strlen($inisial)-strlen($angka)); $i++) {
 		$tmp=$tmp."0";	
 	}
- 	return $inisial.$tmp.$angka;
+
+   return $inisial.$tmp.$angka;
 }
 
 # Fungsi untuk membalik tanggal dari format Indo (d-m-Y) -> English (Y-m-d)

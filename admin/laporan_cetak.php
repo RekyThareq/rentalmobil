@@ -22,7 +22,7 @@ $querysewa = mysqli_query($koneksidb,$sqlsewa);
 
 	<title>Cetak Detail Laporan</title>
 
-	<link href="../assets/images/cat-profile.png" rel="icon" type="images/x-icon">
+	<!-- <link href="../assets/images/cat-profile.png" rel="icon" type="images/x-icon"> -->
 
 	<!-- Bootstrap Core CSS -->
 	<link href="../assets/new/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +52,7 @@ $querysewa = mysqli_query($koneksidb,$sqlsewa);
 				<tbody>
 					<tr>
 						<td rowspan="3" width="16%" class="text-center">
-							<img src="../assets/images/cat-profile.png" alt="logo" width="80" />
+							<img style="width: 150px" src="../assets/images/logo-ozan.png" alt="logo" width="80" />
 						</td>
 						<td class="text-center"></td>
 						<td rowspan="3" width="16%">&nbsp;</td>
