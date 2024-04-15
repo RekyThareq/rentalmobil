@@ -115,6 +115,21 @@ $querysewa = mysqli_query($koneksidb,$sqlsewa);
 		</div><!-- /.container -->
 	</section>
 
+	<!-- Signature -->
+    <section id="signature">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 text-right">
+					<p>Jakarta, <?php echo date('d F Y'); ?></p>
+						
+                    <img src="../assets/images/signature.png" alt="Signature" width="100" height="auto">
+
+					<p>Muhammad Januar </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('#jumlah').terbilang({
