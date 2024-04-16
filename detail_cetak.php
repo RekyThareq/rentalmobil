@@ -30,7 +30,7 @@ $tglhasil = date("Y-m-d",$tgl);
 
 	<title>Cetak Detail Sewa</title>
 
-	<link href="assets/images/favicon-icon/favicon.png" rel="icon" type="images/x-icon">
+	<link href="assets/images/favicon-icon/logo3.png" rel="icon" type="images/x-icon">
 
 	<!-- Bootstrap Core CSS -->
 	<link href="assets/new/bootstrap.min.css" rel="stylesheet">
@@ -60,13 +60,13 @@ $tglhasil = date("Y-m-d",$tgl);
 				<tbody>
 					<tr>
 						<td rowspan="3" width="16%" class="text-center">
-							<img style="width: 150px" src="assets/images/logo-ozan.png" alt="logo-dkm" width="80" />
+							<img style="width: 150px" src="assets/images/logo99.png" alt="logo-dkm" width="80" />
 						</td>
 						<td class="text-center"><h3>Rental Mobil</h3></td>
 						<td rowspan="3" width="16%">&nbsp;</td>
 					</tr>
 					<tr>
-						<td class="text-center">Jl. Kemanggisan Raya No.19, RT.4/RW.13, Kemanggisan, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480 </td>
+						<td class="text-center">Jl. Raya Tengah No.80, RT.6/RW.1, Gedong, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13760</td>
 					</tr>
 				</tbody>
 			</table>
